@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "idUsuario": 10,
+        "iddoacao_sangue": null,
+        "idcentro_doacao": null,
+        "tipo_sanguineo": "A+",
+        "volume": 450,
+        "status": "disponivel",
+        "data_expiracao": null
+    },
+    {
+        "id": 1,
+        "idUsuario": 10,
+        "iddoacao_sangue": null,
+        "idcentro_doacao": null,
+        "tipo_sanguineo": "O+",
+        "volume": 450,
+        "status": "disponivel",
+        "data_expiracao": null
+    },
+    {
+        "id": 1,
+        "idUsuario": 10,
+        "iddoacao_sangue": null,
+        "idcentro_doacao": null,
+        "tipo_sanguineo": "O+",
+        "volume": 450,
+        "status": "disponivel",
+        "data_expiracao": null
+    }
+]
