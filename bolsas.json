@@ -1,32 +1,12 @@
 [
     {
         "id": 1,
-        "idUsuario": 10,
-        "iddoacao_sangue": null,
-        "idcentro_doacao": null,
+        "nome": "Julia Gottardo",
+        "CPF": 123456789.0,
+        "cidade": "Ouro Verde do Oeste",
+        "hospital": "Hospital Central",
+        "quantidade_bolsas": 3,
         "tipo_sanguineo": "A+",
-        "volume": 450,
-        "status": "disponivel",
-        "data_expiracao": null
-    },
-    {
-        "id": 1,
-        "idUsuario": 10,
-        "iddoacao_sangue": null,
-        "idcentro_doacao": null,
-        "tipo_sanguineo": "O+",
-        "volume": 450,
-        "status": "disponivel",
-        "data_expiracao": null
-    },
-    {
-        "id": 1,
-        "idUsuario": 10,
-        "iddoacao_sangue": null,
-        "idcentro_doacao": null,
-        "tipo_sanguineo": "O+",
-        "volume": 450,
-        "status": "disponivel",
-        "data_expiracao": null
+        "data_vencimento": "10/12/2026"
     }
 ]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nome": "Julia Gottardo",
+        "CPF": "121.606.059-21",
+        "idade": 19,
+        "peso": 54.5,
+        "altura": 1.59,
+        "tipo_sanguineo": "A+",
+        "cidade": "Ouro Verde do Oeste",
+        "bairro": "Centro",
+        "logradouro": "Rua Porto Alegre, 469",
+        "telefone": "45 999646501",
+        "email": "juliagottardo2@gmail.com"
+    },
+    {
+        "id": 2,
+        "nome": "Pedro Henrique",
+        "CPF": "176.606.059-21",
+        "idade": 23,
+        "peso": 58.5,
+        "altura": 1.7,
+        "tipo_sanguineo": "A-",
+        "cidade": "Ouro Verde do Oeste",
+        "bairro": "Centro",
+        "logradouro": "Rua Canabarro, 499",
+        "telefone": "45 999646522",
+        "email": "pedrohenriqueg@gmail.com"
+    }
+]
