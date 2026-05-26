@@ -99,6 +99,11 @@ def atualizar_bolsa(id):
     bolsas = carregar('bolsas.json')
     dados = request.json
 
+    campos_obrigatorios = ['nome', 'CPF', 'cidade', 'hospital', 'quantidade_bolsas', 'tipo_sanguineo', 'data_vencimento']
+    for campo in campos_obrigatorios:
+        if not dados.get(campo):
+            return jsonify({"erro": f"O campo '{campo}' é obrigatório"}), 400
+
     campos_string = ['cidade', 'CPF', 'hospital', 'data_vencimento', 'tipo_sanguineo']
     for campo in campos_string:
         if campo in dados and not isinstance(dados[campo], str):
