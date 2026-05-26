@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nome": "Julia Gottardo",
-        "CPF": 123456789.0,
+        "CPF": "123456789.0",
         "cidade": "Ouro Verde do Oeste",
         "hospital": "Hospital Central",
         "quantidade_bolsas": 3,
